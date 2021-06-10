@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @loyamarjTZ. I have several interests in computer science and software development seems like a good place to start my career. My other interests include cyber security, networking, project management, data science, among several others. I enjoy meeting people with similar interests, so feel free to shoot me an email!
-- 👀 I’m interested in Java software development.
-- 🌱 I’m currently brushing up on Big-O notation, data structures, and algorithms.
-- 💞️ I’m looking to improve my Java programming skills.
-- 📫 How to reach me: jose.loyamarquez@outlook.com
+- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development. My other interests include cyber security, IT, and data science.
+- 👀 I’m interested in becoming a professional Java Software Engineer.
+- 🌱 I’m currently brushing up on Big-O notation and MySQL.
+- 💞️ I’m looking into Jira, Kubernetes, and KanBan.
+- 📫 I'm reading Cracking the Coding Interview.
+- ✨ How to reach me: jose.loyamarquez@outlook.com 
 
 <!---
 loyamarjTZ/loyamarjTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
