@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development. My other interests include cyber security, IT, data science, and databases.
+- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development. My other interests include cyber security, IT, and databases.
 - 👀 I’m interested in becoming a professional Java Software Engineer.
 - 🌱 I’m currently brushing up on Big-O notation and MySQL.
 - 💞️ I’m looking into Jira, Kubernetes, and KanBan.
