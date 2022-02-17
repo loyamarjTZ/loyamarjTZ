@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development. My other interests include cyber security, electronics engineering, and IT.
-- 💞️ I’m interested in becoming a professional Java Software Engineer.
+- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development.
+- 💞️ I’m interested in becoming a Full-Stack Java Developer.
 - 🌱 I’m currently brushing up on Big-O notation and MySQL.
-- 👀 I’m looking into Kotlin and Android development.
+- 👀 I’m looking into Spring Boot.
 - 📫 I'm reading Cracking the Coding Interview.
 - ✨ How to reach me: jose.loyamarquez@outlook.com 
 
