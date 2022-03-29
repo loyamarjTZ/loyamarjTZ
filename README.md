@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @loyamarjTZ. My primary interest is in software development.
-- 💞️ I’m interested in becoming a Full-Stack Java Developer.
-- 🌱 I’m currently brushing up on Big-O notation and MySQL.
+- 👋 Hi, I’m @loyamarjTZ, a Full Stack Java Developer with less than one year of experience.
+- 🌱 I’m currently writing my first Spring Boot web application.
 - 👀 I’m looking into Spring Boot.
 - 📫 I'm reading Cracking the Coding Interview.
 - ✨ How to reach me: jose.loyamarquez@outlook.com 
