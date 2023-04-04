@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @loyamarjTZ, a Full Stack Java Developer with less than one year of experience.
-- 🌱 I’m currently writing my first Spring Boot web application.
-- 👀 I’m looking into Spring Boot.
-- 📫 I'm reading Cracking the Coding Interview.
+- 👋 Hi, I’m @loyamarjTZ, a web developer with one year of experience.
 - ✨ How to reach me: jose.loyamarquez@outlook.com 
 
 <!---
